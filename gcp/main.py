@@ -1,5 +1,8 @@
 import json
 import functions_framework
+from flask import Flask, request, jsonify
+
+args = request.args or {}
 
 @functions_framework.http
 def hello_http(request):
