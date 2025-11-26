@@ -5,7 +5,8 @@ from flask import Flask, request, jsonify
 args = request.args or {}
 
 @functions_framework.http
-def hello_http(request):
+def medication_dosage_checker(request):
+    ...
     """HTTP Cloud Function.
     Expects JSON with 'weight' (in kg) and 'medication' name.
     Returns a recommended dosage classification.
