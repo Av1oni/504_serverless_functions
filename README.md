@@ -70,3 +70,21 @@
 # 5
 # ![alt text](image-4.png)
 
+# ---------------------------------------------------
+
+# Google Cloud Screen Shots
+
+# 1
+# ![alt text](image.png)
+
+# 2
+# ![alt text](image-1.png)
+
+# 3
+# ![alt text](image-2.png)
+
+# 4
+# ![alt text](<Screenshot 2025-11-27 203752.png>)
+
+# 5
+# ![alt text](image-3.png) 
