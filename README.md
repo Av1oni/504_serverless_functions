@@ -56,7 +56,7 @@
 # Screen Shots 
 
 # Azure 1 
-# ![alt text](screenshots\image.png) 
+# ![alt text](screenshots/image.png) 
 
 # 2 
 # ![alt text](screenshots/image-1.png)
@@ -68,23 +68,23 @@
 # ![alt text](screenshots/image-3.png)
 
 # 5
-# ![alt text](screenshots\image-4.png) 
+# ![alt text](screenshots/image-4.png) 
 
 # ---------------------------------------------------
 
 # Google Cloud Screen Shots
 
 # 1
-# ![alt text](screenshots\imagegc.png)
+# ![alt text](screenshots/imagegc.png)
 
 # 2
-# ![alt text](screenshots\imagegc-1.png)
+# ![alt text](screenshots/imagegc-1.png)
 
 # 3
-# ![alt text](screenshots\image-2gc.png)
+# ![alt text](screenshots/image-2gc.png)
 
 # 4
-![alt text](screenshots\normal_dosage.png) 
+![alt text](screenshots/normal_dosage.png) 
 
 # 5
-# ![alt text](screenshots\image-3gc.png)
+# ![alt text](screenshots/image-3gc.png)
