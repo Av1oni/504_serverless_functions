@@ -1,6 +1,6 @@
 # Cloud Environments and Regions Used
 
-# Cloud	            Service	       	                            Runtime     Region
+# Cloud	                        	                            Runtime     Region
 # Microsoft Azure   Azure Functions (Consumption Plan, Windows)	Python 3.10	East US
 # Google Cloud      Cloud Functions 2nd Gen (Cloud Run)	        Python 3.10	us-east1
 
@@ -56,35 +56,35 @@
 # Screen Shots 
 
 # Azure 1 
-# ![alt text](image.png)
+# ![alt text](screenshots\image.png) 
 
 # 2 
-# ![alt text](image-1.png)
+# ![alt text](screenshots/image-1.png)
 
 # 3
-# ![alt text](image-2.png)
+# ![alt text](screenshots/image-2.png)
 
 # 4
-# ![alt text](image-3.png)
+# ![alt text](screenshots/image-3.png)
 
 # 5
-# ![alt text](image-4.png)
+# ![alt text](screenshots\image-4.png) 
 
 # ---------------------------------------------------
 
 # Google Cloud Screen Shots
 
 # 1
-# ![alt text](image.png)
+# ![alt text](screenshots\imagegc.png)
 
 # 2
-# ![alt text](image-1.png)
+# ![alt text](screenshots\imagegc-1.png)
 
 # 3
-# ![alt text](image-2.png)
+# ![alt text](screenshots\image-2gc.png)
 
 # 4
-# ![alt text](<Screenshot 2025-11-27 203752.png>)
+![alt text](screenshots\normal_dosage.png) 
 
 # 5
-# ![alt text](image-3.png) 
+# ![alt text](screenshots\image-3gc.png)
